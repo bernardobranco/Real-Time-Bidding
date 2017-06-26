@@ -1,11 +1,11 @@
 # COMPGW02/M041: the Web Economics Project
 
-##Authors
+## Authors ##
 - Bernardo Branco
 - David Agababyan
 - Christoph Sitter
 
-##Running the project
+## Running the project ##
 There are two main files in this project, 
  - main.py which does all the data preprocessing, CTR prediction and strategy training
  - main_price_regression.py which predicts the payprice for given impressions (never finished running)
