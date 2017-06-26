@@ -1,0 +1,13 @@
+data/*.zip
+data/*.csv
+.DS_Store
+.idea
+.ipynb_checkpoints
+__pycache__
+generated
+*.iml
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
